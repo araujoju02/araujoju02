@@ -77,7 +77,7 @@ Transformo desafios em soluções eficientes e escaláveis, conduzindo projetos 
 
 ## 🛠️ Projetos
 
-### [Simulador de Integração](https://araujoju02.github.io/simulador-integracao/)  
+### [Simulador de Integração](https://araujoju02.github.io/simulador-integracao/)  https://araujoju02.github.io/simulador-integracao/
 ![status-concluído](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)  
 Simulador interativo para testar integrações de pedidos via API com sistemas ERP. Inclui validação de dados, fluxo visual e resultado estilizado.  
 **Tecnologias:** HTML5, CSS3, JavaScript.
