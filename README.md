@@ -19,7 +19,7 @@
 
 Sou especialista em **implantação de sistemas** com foco em **projetos de tecnologia B2B**, integração de ERPs (SAP, TOTVS, Oracle) e **gestão de dados corporativos**.
 
-Atualmente, sou **Analista de Implantação Pleno** em uma empresa referência em soluções para gestão de crédito corporativo, com uma carteira de **+35 empresas** e um fluxo financeiro acima de **R$150 milhões**.
+Minha carteira possui mais de **+35 empresas** e um fluxo financeiro acima de **R$150 milhões**.
 
 Transformo desafios em soluções eficientes e escaláveis, conduzindo projetos ponta a ponta com **metodologias ágeis** (Scrum e Kanban).
 
@@ -75,12 +75,19 @@ Transformo desafios em soluções eficientes e escaláveis, conduzindo projetos 
 
 ---
 
-## 🛠️ Projetos (em breve)
+## 🛠️ Projetos
 
-🗂️ Portfólio de projetos em desenvolvimento!  
-Aqui você encontrará em breve cases e aplicações reais que desenvolvi durante minha formação e trajetória profissional.
+### [Simulador de Integração](https://araujoju02.github.io/simulador-integracao/)  
+![status-concluído](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)  
+Simulador interativo para testar integrações de pedidos via API com sistemas ERP. Inclui validação de dados, fluxo visual e resultado estilizado.  
+**Tecnologias:** HTML5, CSS3, JavaScript.
 
-Fique de olho! 👀
+### Próximos projetos (em desenvolvimento)  
+- **Conciliador Bancário Simplificado**: sistema para automatizar conferência e validação de extratos bancários contra lançamentos contábeis.  
+- **Dashboard de Monitoramento de Integrações**: ferramenta para acompanhar status e métricas de integrações em tempo real.  
+- **Automação de Processos de Implantação**: scripts para facilitar deploy e configuração de ambientes ERP.
+
+Fique de olho aqui para novidades! 👀
 
 ---
 
